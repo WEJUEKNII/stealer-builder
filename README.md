@@ -6,3 +6,12 @@ This tool is designed exclusively for cybersecurity education, authorized penetr
 Stealer-Builder is the fastest Python 3.12 based information gathering tool ever written. It compiles into a single portable executable (Windows/Linux) that, when run with explicit consent on an authorized target, collects specific system data and sends it to a Discord webhook you control. Built for speed, stealth (educational), and modularity.
 
 Key philosophy: Less than 2 seconds from execution to exfiltration. No heavy libraries. Pure Python 3.12 optimizations + PyInstaller for maximum performance.
+
+SETUP
+Run install command
+pip install -r requirements.txt
+
+
+After that run the exe 
+keep your webhook with you
+a gui will popup have a icon file to sumbit it
