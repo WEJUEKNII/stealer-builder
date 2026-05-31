@@ -17,9 +17,7 @@ SETUP
 
 Install the required dependencies:
 
-# for Windows
 pip install -r requirements.txt
-```
 
 After installing the requirements, run the executable file.
 
@@ -31,3 +29,4 @@ You will be prompted to select/upload an icon file through the GUI
 Make sure Python and pip are correctly installed before running setup
 If the GUI does not appear, try running the executable as administrator
 Do not close the window during setup unless finished
+```
