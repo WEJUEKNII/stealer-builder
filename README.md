@@ -11,12 +11,21 @@ Stealer-Builder is the fastest Python 3.12 based information gathering tool ever
 
 
 
-SETUP
+"SETUP"
+⚙️ Installation
 
-Run install command
+Install the required dependencies:
+
 pip install -r requirements.txt
+🚀 Running the Tool
 
+After installing the requirements, run the executable file.
 
-After that run the exe 
-keep your webhook with you
-a gui will popup have a icon file to sumbit it
+🔑 Important
+Keep your webhook URL ready before starting
+The application will open a GUI on launch
+You will be prompted to select/upload an icon file through the GUI
+📌 Notes
+Make sure Python and pip are correctly installed before running setup
+If the GUI does not appear, try running the executable as administrator
+Do not close the window during setup unless finished
