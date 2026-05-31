@@ -11,7 +11,8 @@ Stealer-Builder is the fastest Python 3.12 based information gathering tool ever
 
 
 
-"SETUP"
+SETUP
+
 ⚙️ Installation
 
 Install the required dependencies:
