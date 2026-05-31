@@ -15,7 +15,7 @@ Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
-After installing the requirements, run the executable file.
+After installing the requirements, run the python file.
 ```
 
 🔑 Important
