@@ -16,6 +16,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 After installing the requirements, run the executable file.
+```
 
 🔑 Important
 Keep your webhook URL ready before starting
