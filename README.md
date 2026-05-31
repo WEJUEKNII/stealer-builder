@@ -17,8 +17,9 @@ SETUP
 
 Install the required dependencies:
 
+# for Windows
 pip install -r requirements.txt
-🚀 Running the Tool
+```
 
 After installing the requirements, run the executable file.
 
