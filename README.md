@@ -3,7 +3,7 @@
 This tool is designed exclusively for cybersecurity education, authorized penetration testing, CTF competitions, and malware analysis sandboxes. Using this on any system you do not own or lack written permission to test is a FEDERAL CRIME (CFAA, Computer Fraud and Abuse Act). The author assumes ZERO liability. You have been warned.
 
 🚀 What Is This?
-Stealer-Builder is the fastest Python 3.12 based information gathering tool ever written. It compiles into a single portable executable (Windows/Linux) that, when run with explicit consent on an authorized target, collects specific system data and sends it to a Discord webhook you control. Built for speed, stealth (educational), and modularity.
+Stealer-Builder is the fastest Python based information gathering tool ever written. It compiles into a single portable executable (Windows/Linux) that, when run with explicit consent on an authorized target, collects specific system data and sends it to a Discord webhook you control. Built for speed, stealth (educational), and modularity.
 
 
 
